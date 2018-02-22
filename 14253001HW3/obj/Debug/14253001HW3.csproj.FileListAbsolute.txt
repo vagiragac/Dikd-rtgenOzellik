@@ -1,0 +1,9 @@
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW3\14253001HW3\bin\Debug\14253001HW3.exe.config
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW3\14253001HW3\bin\Debug\14253001HW3.exe
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW3\14253001HW3\bin\Debug\14253001HW3.pdb
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW3\14253001HW3\obj\Debug\14253001HW3.csprojResolveAssemblyReference.cache
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW3\14253001HW3\obj\Debug\14253001HW3.exe
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW3\14253001HW3\obj\Debug\14253001HW3.pdb
+C:\Users\madib\OneDrive\Masaüstü\c# notları\14253001HW3\14253001HW3\14253001HW3\bin\Debug\14253001HW3.exe.config
+C:\Users\madib\OneDrive\Masaüstü\c# notları\14253001HW3\14253001HW3\14253001HW3\obj\Debug\14253001HW3.exe
+C:\Users\madib\OneDrive\Masaüstü\c# notları\14253001HW3\14253001HW3\14253001HW3\obj\Debug\14253001HW3.pdb
